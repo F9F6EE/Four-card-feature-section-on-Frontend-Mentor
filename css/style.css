@@ -50,19 +50,19 @@ header p {
   max-width: 600px;
 }
 
-header h2,
-h3,
+header h1,
+h2,
 .card h5,
 p {
   margin: 0;
 }
 
-header h2 {
+header h1 {
   font-size: 2rem;
   font-weight: 200;
   color: var(--Very_Dark_Blue);
 }
-header h3 {
+header h2 {
   font-size: 2rem;
   font-weight: 600;
   color: var(--Very_Dark_Blue);
@@ -79,14 +79,6 @@ main {
   display: flex;
   flex-direction: column;
   gap: 1.5rem;
-}
-
-.card {
-  background-color: white;
-  border-radius: 7px;
-  padding: 30px;
-  text-align: right;
-  box-shadow:0 15px 15px hsla(212, 86%, 40%, 0.15)
 }
 
 .card-1,
@@ -110,7 +102,12 @@ main {
   border-top: 4px solid var(--Blue);
 }
 
-
+.card {
+  background-color: white;
+  border-radius: 7px;
+  padding: 30px;
+  text-align: right;
+}
 .card-text h5 {
   font-size: 20px;
   color: var(--Very_Dark_Blue);
@@ -132,8 +129,8 @@ main {
   body {
     font-size: 13px;
   }
-  header h2,
-  header h3 {
+  header h1,
+  header h2 {
     font-size: 1.6rem;
     margin: 0;
   }
