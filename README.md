@@ -43,7 +43,7 @@ Users should be able to:
 
 ### What I learned
 
-First time using 'align-self' & instade of using absolute position for the icon, aligning all the card content to the right and the text to the left helped to put the icons in the good position with some padding.
+First time using 'align-self' & instead of using absolute position for the icon, aligning all the card content to the right and the text to the left helped to put the icons in the good position with some padding.
 
 ```css
 .card-1,
