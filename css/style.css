@@ -81,6 +81,14 @@ main {
   gap: 1.5rem;
 }
 
+.card {
+  background-color: white;
+  border-radius: 7px;
+  padding: 30px;
+  text-align: right;
+  box-shadow:0 15px 15px hsla(212, 86%, 40%, 0.15)
+}
+
 .card-1,
 .card-4 {
   align-self: center;
@@ -102,12 +110,7 @@ main {
   border-top: 4px solid var(--Blue);
 }
 
-.card {
-  background-color: white;
-  border-radius: 7px;
-  padding: 30px;
-  text-align: right;
-}
+
 .card-text h5 {
   font-size: 20px;
   color: var(--Very_Dark_Blue);
