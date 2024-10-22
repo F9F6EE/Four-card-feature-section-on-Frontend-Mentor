@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://github.com/F9F6EE/Four-card-feature-section-on-Frontend-Mentor/settings/pages](https://github.com/F9F6EE/Four-card-feature-section-on-Frontend-Mentor/settings/pages)
+- Solution URL: [https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK/hub](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK/hub)
+- Live Site URL: [https://github.com/F9F6EE/Four-card-feature-section-on-Frontend-Mentor/](https://f9f6ee.github.io/Four-card-feature-section-on-Frontend-Mentor/)
 
 ## My process
 
